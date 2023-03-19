@@ -1,0 +1,9 @@
+HTTP stands for Hyper text tranfer protocal, self explantory
+A Url is a string of information used to request a website
+Domain name system, it's what turn what we type into urls into something servers can understand
+query string is a way to pass arguments to a website
+GET and POST Get onlt recieves information without changing anything on the server, POST can actually change the server
+The browser attempting to get information from a server
+and the response is what the server gives back from the request
+Extra data sent with the hypertext, date, server type are two examples
+turn somesite.com into an ip address and attempt to access it using http(hyper text transfer protocol) to get the resourse /some/page.html from it.
